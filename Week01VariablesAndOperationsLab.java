@@ -31,7 +31,7 @@ public class Week01VariablesAndOperationsLab{
 		String streetAddress = "456 W Hwy 1";
 
 		// 7. Print all variables to the console
-		System.out.println(customersFirstName);
+		System.out.println();
 
 		// 8. A customer booked 2 plane seats, 
 		//		remove 2 seats from the available seats variable
